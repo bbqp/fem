@@ -1,0 +1,4 @@
+FEM README
+==========
+
+Independent code project for finite element methods in C and Fortran. At a later date, will be ported to C++.
